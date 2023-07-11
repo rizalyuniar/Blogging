@@ -28,7 +28,7 @@ export default function Home() {
 
       <div className="container mb-5">
         <div className="mt-3" data-aos="fade-down" data-aos-offset="500" data-aos-duration="2000">
-          <Image className="rounded mx-auto d-block" crossOrigin="anonymous" src={Photo} alt="Gambar Landing 1" />
+          <Image className={`rounded mx-auto d-block ${styles.landing}`} crossOrigin="anonymous" src={Photo} alt="Gambar Landing 1" />
         </div>
         <div className="content mt-4">
           <div className="text-center"><h4>Selamat datang di Blogging!</h4></div>

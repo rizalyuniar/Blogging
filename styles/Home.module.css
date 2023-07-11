@@ -128,6 +128,13 @@
   }
 }
 
+@media (max-width: 772px) {
+  .landing {
+    width: 300px;
+    height: 250px;
+  }
+}
+
 /* corosel */
 .card {
   width: 100%;
