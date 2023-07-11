@@ -1,34 +1,103 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br />
+<p align="center">
+<div align="center">
+  <img height="150" src="./public/landing.jpg" alt="logo" border="0"/>
+</div>
+  <h3 align="center">Blogging</h3>
+  <p align="center">
+    <a href="https://github.com/rizalyuniar/Blogging"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://myblogging.vercel.app/">View Demo</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+  - [Requirements](#requirements)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Related Project](#related-project)
+- [Contact](#contact)
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+This is a Blogging Application
+
+### Built With
+
+[![Requirements](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Requirements](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+
+### Requirements
+
+[![Requirements](https://skillicons.dev/icons?i=vscode,postman)](/)
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
+This is an example of how to list things you need to use the software and how to install them.
+
+- [nodejs](https://nodejs.org/en/download/)
+
+### Installation
+
+- Clone This Front End Repo
+
+```
+git clone https://github.com/rizalyuniar/Blogging.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Go To Folder Repo
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+cd Blogging
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Install Module
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+npm install
+```
 
-## Learn More
+- Type ` npm run dev` To Start Website
+- Type ` npm run production` To Start Production
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- CONTRIBUTING -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Related Project
+
+:rocket: [`Blogging`](https://github.com/rizalyuniar/Blogging/)
+
+:rocket: [`Demo Blogging`](https://myblogging.vercel.app/)
+
+<!-- CONTACT -->
+
+## Contact
+
+My Email : rizalyuniar123@gmail.com
+
+Project Link: [https://github.com/rizalyuniar/Blogging/](https://github.com/rizalyuniar/Blogging/)
