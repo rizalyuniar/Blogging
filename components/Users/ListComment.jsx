@@ -18,10 +18,10 @@ const ListComment = () => {
       <div className="row mt-4">
         <h3>Kumpulan Comment Pengguna</h3>
         {data.map((item) => (
-          <div className="col-sm-6 mt-2 mb-2">
+          <div className="col-sm-6 mt-2 mb-2" key={item.id}>
             <div className="card">
               <div className="card-body">
-                <h5 className="card-title" key={item.id}>{item.name}</h5>
+                <h5 className="card-title">{item.name}</h5>
                 <p className="card-text">{item.body}</p>
                   <a href="#" className="btn btn-success">
                     Edit Comment
