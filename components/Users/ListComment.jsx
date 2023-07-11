@@ -19,7 +19,7 @@ const ListComment = () => {
         <h3>Kumpulan Comment Pengguna</h3>
         {data.map((item) => (
           <div className="col-sm-6 mt-2 mb-2">
-            <div className="card">
+            <div key={item.id} className="card">
               <div className="card-body">
                 <h5 className="card-title">{item.name}</h5>
                 <p className="card-text">{item.body}</p>
