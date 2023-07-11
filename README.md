@@ -20,7 +20,6 @@
   - [Built With](#built-with)
   - [Requirements](#requirements)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
@@ -45,12 +44,6 @@ This is a Blogging Application
 <!-- GETTING STARTED -->
 
 ## Getting Started
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- [nodejs](https://nodejs.org/en/download/)
 
 ### Installation
 
